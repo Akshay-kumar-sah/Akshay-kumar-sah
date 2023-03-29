@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshay Kumar Sah</h1>
 <h3 align="center">A passionate Backend and App developer from India</h3>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Frontend+%26+Backend Developer"></h3>
+<h3 align="center"><img src="http://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&lines=Frontend+%26+%20Backend%20Developer"></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akshay-kumar-sah&label=Profile%20views&color=0e75b6&style=flat" alt="Akshay-kumar-sah" /> </p>
 
 - 💬 Ask me about **JavaScript, NodeJs, Mongo DB, MySQL**
