@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshay Kumar Sah</h1>
 <h3 align="center">A passionate Backend Web and App developer from India</h3>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Frontend+%26+and Backend Developer"></h3>
+//<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Frontend+%26+and Backend Developer"></h3>
 //<a href="https://topmate.io/prayas_kumar1"><img src="https://topmate-readme-badge.onrender.com/prayas_kumar1?style=social" alt="Connect on Topmate" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akshay-kumar-sah&label=Profile%20views&color=0e75b6&style=flat" alt="Akshay-kumar-sah" /> </p>
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Akshay_Soni_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prayask49828662" height="30" width="40" /></a>
+<a href="https://twitter.com/Akshay_Soni_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Akshay_Soni_03" height="30" width="40" /></a>
 <a href="linkedin.com/in/akshay-kumar-6abb22236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshay-kumar-6abb22236/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/prayasraw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/prayasraw" height="30" width="40" /></a>
 
@@ -22,7 +22,7 @@
 
 ### Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=Akshay-kumar-sah&show_icons=true&count_private=true&hide_border=true" align="left" />  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=SonuKumar81800&theme=chartreuse-dark&count_private=true&show_icons=true&line_height=40" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Akshay-kumar-sah&theme=chartreuse-dark&count_private=true&show_icons=true&line_height=40" />
 
 <br/> 
 <h3 align="left">Languages and Tools:</h3>
